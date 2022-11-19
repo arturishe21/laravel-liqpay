@@ -1,22 +1,10 @@
 {
-    "name": "deniztezcan/laravel-liqpay",
+    "name": "arturishe21/laravel-liqpay",
     "description": "LiqPay for Laravel",
     "type": "library",
     "license": "MIT",
     "version": "1.0.0",
-    "homepage": "https://github.com/deniztezcan/laravel-liqpay",
-    "authors": [
-        {
-            "name": "Deniz Tezcan",
-            "email": "howdy@deniztezcan.me"
-        },
-        {
-            "name": "Liqpay",
-            "email": "support@liqpay.ua",
-            "homepage": "https://www.liqpay.ua/",
-            "role": "Developer"
-        }
-    ],
+    "homepage": "https://github.com/arturishe21/laravel-liqpay",
      "keywords": [
         "liqpay",
         "laravel"
