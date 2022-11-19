@@ -1,9 +1,7 @@
 {
     "name": "arturishe21/laravel-liqpay",
     "description": "LiqPay for Laravel",
-    "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
     "homepage": "https://github.com/arturishe21/laravel-liqpay",
      "keywords": [
         "liqpay",
