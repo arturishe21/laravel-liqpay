@@ -1,6 +1,6 @@
 <?php
 
-namespace DenizTezcan\LiqPay\Facades;
+namespace Arturishe21\LiqPay\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

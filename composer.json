@@ -10,7 +10,7 @@
         "laravel"
     ],
     "autoload": {
-        "psr-4": { "DenizTezcan\\LiqPay\\" : "src/" }
+        "psr-4": { "Arturishe21\\LiqPay\\" : "src/" }
     },
     "minimum-stability": "stable",
     "require": {
@@ -21,10 +21,10 @@
     "extra": {
       "laravel": {
         "providers": [
-          "DenizTezcan\\LiqPay\\LiqPayServiceProvider"
+          "Arturishe21\\LiqPay\\LiqPayServiceProvider"
         ],
         "aliases": {
-          "LiqPay": "DenizTezcan\\LiqPay\\Facades\\LiqPay"
+          "LiqPay": "Arturishe21\\LiqPay\\Facades\\LiqPay"
         }
       }
     },

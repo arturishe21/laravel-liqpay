@@ -1,6 +1,6 @@
 <?php
 
-namespace DenizTezcan\LiqPay;
+namespace Arturishe21\LiqPay;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
